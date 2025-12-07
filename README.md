@@ -178,13 +178,4 @@ Data Science / Product Analytics
 
 ---
 
-## License
 
-If you have a preferred license (MIT, Apache-2.0, etc.), add a `LICENSE` file and update this section. If none chosen, add one before public distribution.
-
----
-
-If you'd like, I can:
-- open a PR updating README.md in the repository,
-- add the preview screenshot to assets,
-- or generate a concise changelog of edits I made. Which should I do next?
